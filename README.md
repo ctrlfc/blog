@@ -6,6 +6,7 @@
 **醒时三生荣枯，醉里一梦江湖。** 
 
 ### 八月
+* [8/18] **»** [[学习][工具]：关于浏览器的二三事](https://github.com/ctrlfc/blog/issues/2)
 * [8/8] **»** [[学习][JS]：Js基础语法名词自我理解](https://github.com/ctrlfc/blog/issues/1)
 
 
